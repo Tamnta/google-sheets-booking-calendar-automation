@@ -147,5 +147,3 @@ function sincronizarPeriquillo() {
     );
   }
 }
-
-feat: add calendar sync script
